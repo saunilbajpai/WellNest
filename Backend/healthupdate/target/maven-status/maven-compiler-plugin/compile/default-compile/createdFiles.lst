@@ -1,0 +1,16 @@
+com\example\healthupdate\Config\FirebaseInitializer.class
+com\example\healthupdate\Controller\TipController.class
+com\example\healthupdate\Repositories\HealthLogRepository.class
+com\example\healthupdate\Controller\HealthController.class
+com\example\healthupdate\HealthupdateApplication.class
+com\example\healthupdate\Services\AuthService.class
+com\example\healthupdate\Config\WebConfig$1.class
+com\example\healthupdate\Controller\ExerciseController.class
+com\example\healthupdate\Services\GeminiService.class
+com\example\healthupdate\Services\HealthLogService.class
+com\example\healthupdate\DTO\ExerciseRequest.class
+com\example\healthupdate\Model\HealthLog.class
+com\example\healthupdate\Model\User.class
+com\example\healthupdate\Controller\AuthController.class
+com\example\healthupdate\Repositories\UserRepository.class
+com\example\healthupdate\Config\WebConfig.class

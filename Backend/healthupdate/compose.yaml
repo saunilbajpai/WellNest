@@ -1,0 +1,10 @@
+services:
+  mysql:
+    image: 'mysql:8.0'
+    environment:
+      - 'MYSQL_DATABASE=healthdb'
+      - 'MYSQL_PASSWORD=saunil900'
+      - 'MYSQL_ROOT_PASSWORD=saunil9000'
+      - 'MYSQL_USER=healthuser'
+    ports:
+      - '52577:3306'
